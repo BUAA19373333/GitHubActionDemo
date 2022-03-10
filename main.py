@@ -10,7 +10,7 @@ def perm(n, left, right):
             n[j], n[i] = n[i], n[j]
 
 
-n = int(input())
+n = 5
 q = []
 a = []
 for i in range(1, n + 1):
